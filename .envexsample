@@ -1,0 +1,5 @@
+NAME_DB=database name
+USER_DB=database user
+PASSWORD_DB=database user password
+HOST_DB=database host
+PORT_DB=database port
